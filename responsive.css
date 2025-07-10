@@ -1,0 +1,98 @@
+@media (max-width: 768px) {
+    /*container-left*/
+
+    .wrapper {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    #container-top {
+        max-width: 90%;
+        max-height: 50%;
+        position: relativo;
+        align-items: center;
+    }
+
+    #container-bottom {
+        max-width: 100%;
+        max-height: 50%;
+        position: relativo;
+        align-items: center;
+    }
+
+    .container-left {
+        position-area: center;
+        top: 5px;
+        left: 20px;
+        width: 155%;
+        font-size: 26px;
+    }
+
+    .container-right {
+        margin-top: 30px;
+        text-align: center;
+        width: 100%;
+        height: 50%;
+        padding: 0 10px 10px 5px;
+    }
+
+    h1 {
+        font-size: 300%;
+        font-weight: 400;
+        margin-left: -15%;
+        max-width: 180%;
+    }
+
+    p {
+        font-size: 158%;
+        font-weight: 400;
+        margin-left: 0%;
+        max-width: 150%;
+
+    }
+
+    button {
+        margin: 10px 30%;
+        display: block;
+        cursor: pointer;
+        opacity: 0.6;
+
+    }
+
+    button:hover {
+        cursor: pointer;
+        opacity: 0.6;
+
+    }
+
+    .background {
+        width: 157%;
+        height: 58%;
+        position-area: center;
+        top: 155%;
+        left: 57%;
+
+    }
+
+    .smart {
+        width: 70%;
+        height: 40%;
+        position-area: center;
+        top: 164%;
+        left: 30%;
+    }
+
+    .link-header {
+        font-size: 75%;
+        font-weight: 400;
+        margin: 10px 0px 0 10px;
+        cursor:pointer;
+        opacity: 06;
+    }
+
+    .link-header:hover {
+        cursor:pointer;
+        opacity: 06;
+    }
+
+}
