@@ -18,7 +18,7 @@ body {
     background-color: rgba(93,93,125,0.16);
     height: 100vh;
     position: absolute;
-    left: 1012px;
+    left: 675px;
     top: 0%;
     height: 100%;
 }
@@ -26,20 +26,21 @@ body {
 header {      /*container-left*/
     font-size: 36px;
     position: relative;
-    left: 1015px;
+    left: 680px;
+    width: 490px;
 }
 
 section {    /*container-right*/
     display: inline-block;
     margin-top: 10%;
-    padding-left: 300px;
+    padding-left: 150px;
     width: 60%;
 }
 
 .smart {
     position: absolute;
     top: 150px;
-    left: 910px;
+    left: 760px;
     height: 410px;
 }
 
