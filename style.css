@@ -18,7 +18,7 @@ body {
     background-color: rgba(93,93,125,0.16);
     height: 100vh;
     position: absolute;
-    left: 818px;
+    left: 950px;
     top: 0%;
     height: 100%;
 }
@@ -26,7 +26,7 @@ body {
 header {      /*container-left*/
     font-size: 36px;
     position: relative;
-    left: 810px;
+    left: 1015px;
 }
 
 section {    /*container-right*/
@@ -39,29 +39,29 @@ section {    /*container-right*/
 .smart {
     position: absolute;
     top: 150px;
-    left: 740px;
-    height: 300px;
+    left: 855px;
+    height: 410px;
 }
 
 h1 {
-    font-size: 50px;
-    line-height: 60px; 
+    font-size: 70px;
+    line-height: 85px; 
     width: 368px;
 }
 
 p {
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 30px;
+    line-height: 35px;
     opacity: 0.6;
     margin: 3px 0;
-    width: 340px;
+    width: 401px;
 }
 
 .button-main {
-    width: 169px;
+    width: 200px;
     height: 42px;
     background: #8a77f5;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     color:white;
     line-height: 36px;
